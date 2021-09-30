@@ -1,3 +1,4 @@
+##udm_wafiik_square_move est un package utilisant un noeud qui appel le service move_base/goal et envoie des positions au turtulebot pour faire un carré
 
 cd catkin_ws/src
 
