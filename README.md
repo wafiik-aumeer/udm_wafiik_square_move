@@ -1,7 +1,7 @@
 
 cd catkin_ws/src
 
-git clone https://github.com/wafiik-aumeer/udm_square_move.git
+git clone https://github.com/wafiik-aumeer/udm_wafiik_square_move.git
 
 cd ..
 
